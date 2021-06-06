@@ -5,10 +5,10 @@ import java.util.ArrayList;
 
 
 /**
- * Write a description of class Player here.
+ * This class is created for the reference of the player to give the directions.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Sandeep
+ * @version 2021.06.01
  */
 public class Player
 {
@@ -21,12 +21,12 @@ public class Player
     }
     
     /**
-    * Write a description of class Player here.
+    * This class is created for the reference of the player to give the directions.
     *
-    * @param (your name)
-    * @return (a version number or a date)
-    * @exception (a version number or a date)
-    * @see (a version number or a date)
+    * @param sandeep
+    * @return 2021.06.01
+    * @exception V1
+    * @see 2021.06.01
     */
     
     public void addItemInventory(Item item){

@@ -5,10 +5,13 @@ import java.util.HashMap;
 import java.util.ArrayList;
 
 /**
- * Write at least 3 sentences!!!!!
+ *  This room is created for the player to enter.
+ * If the room is locked then Exit the room to the given direction.
+ * If there is another room in the route while exiting this room, enter
+ * that room, otherwise "null" variable will show that there is no room.
  * 
- * @author  Michael Kölling and David J. Barnes
- * @version 2016.02.29
+ * @author  Sandeep
+ * @version 2021.06.01
  */
 
 public class Room 

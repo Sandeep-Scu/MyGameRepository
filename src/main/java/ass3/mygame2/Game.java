@@ -69,9 +69,9 @@ public class Game {
      */
     private void printWelcome() {
         System.out.println();
-        System.out.println("some background here");
-        System.out.println("objective here");
-        System.out.println("include some necessary information (e.g. time limit)");
+        System.out.println("The purpose of the game is to give the directions to the player to Enter and Exit the rooms.");
+        System.out.println("User can walk around the scenery.");
+        System.out.println("The game will start automatically after the count Down of 50.");
         System.out.println();
         System.out.println(currentRoom.getLongDescription());
     }
